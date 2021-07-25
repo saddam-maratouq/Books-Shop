@@ -1,0 +1,148 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+
+
+
+
+
+#bookTabel{
+
+    position: absolute; 
+
+    right: 118px;
+
+    bottom: 367px;
+}
+
+
+
+#bookshop{
+
+    text-align: center; 
+
+    /* font-family: ; */
+
+    background-color: rgba(64, 34, 24,0.7);
+
+    font-size: 40px;
+
+    color: white;
+    padding: 3%;
+
+    font-family: 'Roboto', sans-serif;
+}
+
+
+body{
+
+    background-image: url(https://peoriaparks.org/wp-content/uploads/2017/12/BookCourt_iStock-690358116-e1515177346323.jpg);
+
+    background-repeat: no-repeat; 
+
+    background-size: cover;
+}   
+
+
+
+#bookForm{
+
+    position: absolute;
+
+    top: 244px;
+    
+    left: 111px;
+
+    background-color:rgba(64, 34, 24,0.7); 
+
+    width: 30%; 
+
+    height: 35%;
+
+    font-family: 'Roboto', sans-serif;
+}
+
+#price{
+
+    width: 70%; 
+
+    position: relative; 
+
+    left: 44px;
+
+    font-family: 'Roboto', sans-serif;
+}
+
+#bookname{
+      width: 70%; 
+    
+
+    position: relative; 
+
+    left: 44px;
+    font-family: 'Roboto', sans-serif;
+}
+
+#submit{
+
+    width: 70%; 
+
+    position: relative; 
+
+    left: 134px;
+font: size 15px; ;
+    background-color: #C68B59;
+    font-family: 'Roboto', sans-serif;
+
+
+}
+
+
+
+#bookTabel,tr,th,td {
+
+    background-color:rgba(64, 34, 24,0.7); 
+
+    border: solid white;
+
+    color: white;
+
+    width: 45%;
+
+    /* height: 10%; */
+
+    text-align: center; 
+
+    font-size: 20px;
+
+    padding: 4px;
+
+    font-family: 'Roboto', sans-serif;
+
+}
+
+
+
+footer{
+
+    text-align: center; 
+
+
+background-color:rgba(64, 34, 24,0.7); 
+
+width: 100%; 
+
+padding: 2%;
+
+position: absolute; 
+
+bottom: 0;  
+
+right: 2px;
+
+font-family: 'Roboto', sans-serif;
+
+color: white; 
+font-size: 20px;
+
+}
